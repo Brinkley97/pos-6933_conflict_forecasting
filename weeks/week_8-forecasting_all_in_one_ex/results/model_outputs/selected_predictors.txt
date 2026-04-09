@@ -1,0 +1,11 @@
+Selected Predictors (n=10)
+vdem_v2x_polyarchy
+vdem_v2x_libdem
+vdem_v2x_partipdem
+vdem_v2x_delibdem
+vdem_v2x_egaldem
+wgi_VA_EST
+wgi_GE_EST
+wgi_RL_EST
+fh_cl
+polity_polity2

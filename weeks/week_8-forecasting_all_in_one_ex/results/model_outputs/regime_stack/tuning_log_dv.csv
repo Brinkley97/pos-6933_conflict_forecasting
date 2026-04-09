@@ -1,0 +1,8 @@
+horizon,model,best_mtry,splitrule,min_node_size,cv_mse,cv_rmse
+1,regime_stack,NA,stack_rf_gbm_lm,NA,0.6556090334790583,0.8096968775282873
+2,regime_stack,NA,stack_rf_gbm_lm,NA,0.7254392082686062,0.8517271912229915
+3,regime_stack,NA,stack_rf_gbm_lm,NA,0.7955165149820106,0.8919173251944434
+4,regime_stack,NA,stack_rf_gbm_lm,NA,0.797564472947971,0.8930646521657718
+5,regime_stack,NA,stack_rf_gbm_lm,NA,0.8330105410626001,0.9126941114429303
+6,regime_stack,NA,stack_rf_gbm_lm,NA,0.8963613764755836,0.9467636328437967
+7,regime_stack,NA,stack_rf_gbm_lm,NA,0.9087483228056767,0.953282918553394

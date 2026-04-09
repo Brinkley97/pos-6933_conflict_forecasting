@@ -1,0 +1,3 @@
+model_short,model_full,computed_in,imported_files,how_used_here
+Lag123,benchmark_lag123,Prior tutorial week,benchmark_lag123_predictions.csv; benchmark_lag123_tuning.csv,Used as fixed baseline on matched rows
+Roll3,benchmark_roll3,Prior tutorial week,benchmark_roll3_predictions.csv; benchmark_roll3_tuning.csv,Used as fixed baseline on matched rows
