@@ -1,0 +1,8 @@
+horizon,model,feature,importance
+1,rf_roll3_caret_cv,log_roll3,2.77993281992933
+2,rf_roll3_caret_cv,log_roll3,2.7293919838816967
+3,rf_roll3_caret_cv,log_roll3,2.682191672948922
+4,rf_roll3_caret_cv,log_roll3,2.6439658287462646
+5,rf_roll3_caret_cv,log_roll3,2.61797601584806
+6,rf_roll3_caret_cv,log_roll3,2.5984982746623144
+7,rf_roll3_caret_cv,log_roll3,2.5768516683258937

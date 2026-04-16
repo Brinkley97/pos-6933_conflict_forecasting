@@ -21,15 +21,25 @@ library(doParallel)
 set.seed(6933)
 
 resolve_week5_dir <- function() {
-  candidates <- c(".", "..", "Week_5", file.path("..", "Week_5"))
+  candidates <- c(
+    ".",                        # if already inside week_5
+    "..",                       # if inside weeks/week_5
+    file.path("weeks", "week_5-train_and_metrics"),
+    file.path("..", "week_5-train_and_metrics"),
+    file.path("..", "weeks", "week_5-train_and_metrics")
+  )
+
+  cat("candidates:", candidates, "\n")
 
   for (cand in candidates) {
-    if (file.exists(file.path(cand, "README.md")) && dir.exists(file.path(cand, "scripts"))) {
+    cat("cand:", cand, "\n")
+
+    if (file.exists(file.path(cand, "week_5_1_setup_data.R"))) {
       return(normalizePath(cand, mustWork = TRUE))
     }
   }
 
-  stop("Could not locate the Week_5 project directory. Run this script from Week_5 or its scripts/ directory.")
+  stop("Could not locate the Week 5 project directory.")
 }
 
 # -----------------------------------------------------------------------------

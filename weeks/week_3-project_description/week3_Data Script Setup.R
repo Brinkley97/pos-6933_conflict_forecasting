@@ -9,8 +9,7 @@ library(tidyverse)
 library(lubridate)
 library(readr)
 
-
-
+options(timeout = 300)
 
 # Create project directories
 

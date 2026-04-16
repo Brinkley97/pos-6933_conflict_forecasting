@@ -1,0 +1,8 @@
+horizon,train_rows,test_rows,train_origin_min,train_origin_max,train_target_min,train_target_max,test_origin_min,test_origin_max,test_target_min,test_target_max,leakage_free
+1,72345,9360,1,371,2,372,372,419,373,420,TRUE
+2,72150,9360,1,370,3,372,371,418,373,420,TRUE
+3,71955,9360,1,369,4,372,370,417,373,420,TRUE
+4,71760,9360,1,368,5,372,369,416,373,420,TRUE
+5,71565,9360,1,367,6,372,368,415,373,420,TRUE
+6,71370,9360,1,366,7,372,367,414,373,420,TRUE
+7,71175,9360,1,365,8,372,366,413,373,420,TRUE
