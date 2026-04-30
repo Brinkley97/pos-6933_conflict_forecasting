@@ -1,0 +1,23 @@
+Theory: Natural Resources Model
+Theory slug: natural_resources_model
+Quick mode: FALSE
+CV folds: 5
+Validation window: 12
+Minimum train months: 120
+RF trees: 150
+GBM trees: 100, 150
+
+Selected predictors:
+wgi_CC_EST
+wgi_GE_EST
+wgi_PV_EST
+wgi_RL_EST
+wgi_RQ_EST
+vdem_v2xeg_eqdr
+vdem_v2xeg_eqaccess
+vdem_v2x_egal
+fh_cl
+polity_polity2
+polity_autoc
+polity_xconst
+polity_durable

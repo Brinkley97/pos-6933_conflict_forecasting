@@ -1,0 +1,8 @@
+horizon,model,best_mtry,splitrule,min_node_size,cv_mse,cv_rmse
+1,natural_resources_gbm,NA,gbm_depth_2_trees_150,10,0.6711129228726759,0.8192148209552095
+2,natural_resources_gbm,NA,gbm_depth_2_trees_150,10,0.7350499043489483,0.8573505142874461
+3,natural_resources_gbm,NA,gbm_depth_2_trees_150,10,0.8135167577033655,0.9019516382286611
+4,natural_resources_gbm,NA,gbm_depth_2_trees_150,10,0.8127595483636587,0.9015317788983696
+5,natural_resources_gbm,NA,gbm_depth_2_trees_100,10,0.845298158460382,0.9194009780614669
+6,natural_resources_gbm,NA,gbm_depth_2_trees_100,10,0.9052748498886442,0.9514593264499771
+7,natural_resources_gbm,NA,gbm_depth_2_trees_100,10,0.9264324934797353,0.9625136328799376

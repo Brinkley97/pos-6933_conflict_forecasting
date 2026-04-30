@@ -1,0 +1,10 @@
+Theory: Democracy Model
+Best Democracy model by average RMSE: democracy_gbm
+Best benchmark model by average RMSE: benchmark_lag123
+
+Average performance by model
+----------------------------
+benchmark_lag123 | mean RMSE = 0.614 | mean CRPS = 0.275
+benchmark_roll3 | mean RMSE = 0.698 | mean CRPS = 0.320
+democracy_gbm | mean RMSE = 0.956 | mean CRPS = 0.438
+democracy_rf | mean RMSE = 0.977 | mean CRPS = 0.457

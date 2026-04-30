@@ -1,0 +1,8 @@
+horizon,model,best_mtry,splitrule,min_node_size,cv_mse,cv_rmse
+1,democracy_gbm,NA,gbm_depth_2_trees_100,10,0.6692663624673929,0.8180870139950841
+2,democracy_gbm,NA,gbm_depth_2_trees_100,10,0.7347205517017029,0.8571584169228597
+3,democracy_gbm,NA,gbm_depth_2_trees_150,10,0.8076003547140983,0.8986658749024012
+4,democracy_gbm,NA,gbm_depth_2_trees_100,10,0.8070789784157084,0.8983757445610987
+5,democracy_gbm,NA,gbm_depth_2_trees_150,10,0.8364651763734006,0.9145847015850421
+6,democracy_gbm,NA,gbm_depth_2_trees_100,10,0.8931498517483222,0.9450660568173646
+7,democracy_gbm,NA,gbm_depth_2_trees_100,10,0.9082324160436843,0.9530122853582131

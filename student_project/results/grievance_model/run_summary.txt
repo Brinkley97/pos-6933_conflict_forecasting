@@ -1,0 +1,10 @@
+Theory: Grievance Model
+Best Grievance model by average RMSE: grievance_gbm
+Best benchmark model by average RMSE: benchmark_lag123
+
+Average performance by model
+----------------------------
+benchmark_lag123 | mean RMSE = 0.614 | mean CRPS = 0.275
+benchmark_roll3 | mean RMSE = 0.698 | mean CRPS = 0.320
+grievance_gbm | mean RMSE = 0.958 | mean CRPS = 0.438
+grievance_rf | mean RMSE = 0.982 | mean CRPS = 0.457

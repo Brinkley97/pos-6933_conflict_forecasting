@@ -1,0 +1,8 @@
+horizon,model,best_mtry,splitrule,min_node_size,cv_mse,cv_rmse
+1,natural_resources_rf,3,variance,10,0.6571379099472329,0.8106404319716806
+2,natural_resources_rf,3,variance,10,0.7246369097130864,0.8512560776365043
+3,natural_resources_rf,3,variance,10,0.7917525297435476,0.8898047705781014
+4,natural_resources_rf,3,variance,10,0.8209584982362446,0.906067601361093
+5,natural_resources_rf,3,variance,10,0.882797024029703,0.939572788042365
+6,natural_resources_rf,3,variance,10,1.0023145168164738,1.0011565895585335
+7,natural_resources_rf,3,variance,10,1.0224101645868202,1.011142999079171

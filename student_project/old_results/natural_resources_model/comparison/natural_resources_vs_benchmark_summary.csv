@@ -1,0 +1,9 @@
+model,metric,horizons_beating_best_benchmark,mean_gap_to_best_benchmark,best_single_horizon_gap
+natural_resources_gbm,crps_det,0,0.19013471799660475,0.14226818815986955
+natural_resources_rf,crps_det,0,0.20923367991820455,0.17086647527216695
+natural_resources_gbm,crps_prob,0,0.16695098321147495,0.1344198998004728
+natural_resources_rf,crps_prob,0,0.173662386982171,0.136758817998335
+natural_resources_rf,mse,0,0.5499325821228004,0.3521921136005562
+natural_resources_gbm,mse,0,0.553875512724756,0.36445308386303726
+natural_resources_rf,rmse,0,0.34576148920758604,0.25853310306363897
+natural_resources_gbm,rmse,0,0.3483726527788313,0.2660628680152688

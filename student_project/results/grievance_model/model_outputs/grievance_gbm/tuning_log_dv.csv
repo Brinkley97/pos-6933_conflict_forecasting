@@ -1,0 +1,8 @@
+horizon,model,best_mtry,splitrule,min_node_size,cv_mse,cv_rmse
+1,grievance_gbm,NA,gbm_depth_2_trees_100,10,0.6704874646500614,0.8188329894734709
+2,grievance_gbm,NA,gbm_depth_2_trees_100,10,0.7346586030727263,0.8571222801168608
+3,grievance_gbm,NA,gbm_depth_2_trees_100,10,0.8100224067489289,0.900012448107763
+4,grievance_gbm,NA,gbm_depth_2_trees_100,10,0.8079877373902287,0.898881381156729
+5,grievance_gbm,NA,gbm_depth_2_trees_100,10,0.8400336114022708,0.9165334753309727
+6,grievance_gbm,NA,gbm_depth_2_trees_100,10,0.8984323547744221,0.9478567163735361
+7,grievance_gbm,NA,gbm_depth_2_trees_100,10,0.910653987479804,0.9542819224316281

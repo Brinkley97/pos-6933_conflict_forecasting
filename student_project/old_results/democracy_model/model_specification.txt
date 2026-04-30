@@ -1,0 +1,20 @@
+Theory: Democracy Model
+Theory slug: democracy_model
+Quick mode: FALSE
+CV folds: 5
+Validation window: 12
+Minimum train months: 120
+RF trees: 150
+GBM trees: 100, 150
+
+Selected predictors:
+vdem_v2x_polyarchy
+vdem_v2x_libdem
+vdem_v2x_partipdem
+vdem_v2x_delibdem
+vdem_v2x_egaldem
+wgi_VA_EST
+wgi_GE_EST
+wgi_RL_EST
+fh_cl
+polity_polity2

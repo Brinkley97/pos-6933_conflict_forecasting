@@ -1,0 +1,25 @@
+Theory: Grievance Model
+Theory slug: grievance_model
+Quick mode: FALSE
+CV folds: 5
+Validation window: 12
+Minimum train months: 120
+RF trees: 150
+GBM trees: 100, 150
+
+Selected predictors:
+fh_cl
+fh_pr
+vdem_v2x_egaldem
+vdem_v2x_egal
+vdem_v2xeg_eqprotec
+vdem_v2xeg_eqaccess
+vdem_v2xeg_eqdr
+vdem_v2x_freexp_altinf
+vdem_v2x_frassoc_thick
+vdem_v2x_suffr
+vdem_v2x_cspart
+vdem_v2elfrfair
+vdem_v2elirreg
+vdem_v2elintim
+vdem_v2elvotbuy

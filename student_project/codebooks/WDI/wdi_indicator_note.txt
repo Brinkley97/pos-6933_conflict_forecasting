@@ -1,0 +1,12 @@
+WDI indicator note
+==================
+
+Week 6 used the following WDI indicators:
+- NY.GDP.PCAP.KD   GDP per capita (constant 2015 US$)
+- SP.POP.TOTL      Total population
+- FP.CPI.TOTL.ZG   Inflation, consumer prices (annual %)
+
+Students can look up indicator metadata at:
+https://data.worldbank.org/indicator/NY.GDP.PCAP.KD
+https://data.worldbank.org/indicator/SP.POP.TOTL
+https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
